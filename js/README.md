@@ -3,5 +3,5 @@
 使用方法：
 
 ```html
-<script src="//cdn.jsdelivr.net/gh/zggcl/gitcdn/_path_/_file_.js"></script>
+<script src="//cdn.jsdelivr.net/gh/zggcl/gitcdn/js/_file_.js"></script>
 ```
